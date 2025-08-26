@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 👨🏽‍💻 2+ years of hands-on experience building **modern, scalable web applications**.
+- 👨🏽‍💻 I have years of hands-on experience building **modern, scalable web applications**.
 - ✍🏽 I also **write and publish books** to educate and inspire others.
 - 🧠 Passionate about **teaching** both tech and non-tech skills to empower new learners.
 - 🧩 Currently building tools like **Rail** and a **Medical Platform** to solve real-world problems.
