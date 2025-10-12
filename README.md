@@ -78,9 +78,3 @@
 <p align="center">
   <em>"Enhancing efficiency in the digital space and taking your productivity to the next level."</em>
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=4000&pause=1000&color=F8FAFC&background=000000&center=true&width=1000&lines=Let's+Build+Amazing+Things+Together!;Open+to+Collaboration+and+Partnerships!;Tech+%7C+Design+%7C+Publishing+%7C+Education+%7C+Blockchain" />
-</p>
