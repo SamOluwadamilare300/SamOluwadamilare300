@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Sam O. Afolabi 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • Fullstack Engineer (Security & Performance) • Technical Writer • Publisher • Blockchain Enthusiast • SaaS & Business Tech Builder</em><br/>
-  <strong>I help businesses and creators bring their ideas to life through clean code, content, and creativity.</strong>
+  <em>Software Engineer • Fullstack Engineer (Security & Performance) • Technical Writer • Blockchain Enthusiast • SaaS & Business Tech Builder</em><br/>
+
 </p>
 
 ---
@@ -18,8 +18,7 @@
 - 👨🏽‍💻 I have years of hands-on experience building **modern, scalable web applications**.
 - ✍🏽 I also **write and publish books** to educate and inspire others.
 - 🧠 Passionate about **teaching** both tech and non-tech skills to empower new learners.
-- 🧩 Currently building tools like **Rail** and a **Medical Platform** to solve real-world problems.
-- 🌍 Proudly based in **Lagos, Nigeria 🇳🇬**, building for the world.
+
 
 ---
 
