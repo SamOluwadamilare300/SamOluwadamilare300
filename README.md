@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sam O. Afolabi 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • Fullstack Engineer (Security & Performance) • Technical Writer • Blockchain Enthusiast • SaaS & Business Tech Builder</em><br/>
+  <em>Software Engineer • Engineer (Security & Performance) • Technical Writer • Blockchain Enthusiast • SaaS & Business Tech Builder</em><br/>
 
 </p>
 
